@@ -1,0 +1,73 @@
+a {
+	font-weight: bold;
+}
+#hhpCenter {
+	padding: 3px;
+}
+
+.mainCnt {
+	padding: 10px;
+}
+.mainCnt img {
+	padding: 5px;
+}
+.profileImg {
+	float:left;
+	max-width: 350px;
+	height: auto;
+}
+.interests {
+	clear: both;
+}
+.HHPheadTxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bolder;
+	margin: 0px;
+	margin-left: 15px;
+	padding: 0 0 3px 0;
+}
+.goldHead {
+	background-color: #fec923;
+	padding: 5px;
+}
+
+.headerTop {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bolder;
+	margin: 0px;
+	padding: 0 0 3px 15px;
+	background-color: #fec923;
+}
+.contentHeading {
+	padding-top: 0;
+	margin-top: 0;
+}
+
+.hhpLink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	margin-left: 15px;
+	padding: 0;
+}
+
+.span4.multiColumn {
+	background-color: #fec923;
+	/* SVG as background image (IE9) */ 
+	background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPgo8bGluZWFyR3JhZGllbnQgaWQ9Imc2NyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KPHN0b3Agc3RvcC1jb2xvcj0iI0ZFQzkyMyIgb2Zmc2V0PSIwIi8+PHN0b3Agc3RvcC1jb2xvcj0iI0ZGRkZGRiIgb2Zmc2V0PSIxIi8+CjwvbGluZWFyR3JhZGllbnQ+CjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9InVybCgjZzY3KSIgLz4KPC9zdmc+);
+	background: linear-gradient(#fec923,#fff);  /*Standard syntax */
+	background: -webkit-linear-gradient(#fec923,#fff); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(#fec923,#fff); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(#fec923,#fff); /* For Firefox 3.6 to 15 */
+	background-image: -ms-linear-gradient(top, #fec923 0%, #ffffff 100%);/* IE10 */
+}
+
+.rcls-right {
+	padding: 5px;
+}
+
+.rcls-right h4 {
+	margin-bottom: 2px;
+}
